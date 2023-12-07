@@ -14,7 +14,7 @@
 <p dir="auto">🔭 I’m currently working on <a href="https://github.com/nikjha/institute-franchise-software">institute franchise software</a></p>
 </li>
 <li>
-<p dir="auto">💬 Ask me about <strong>Python, Django, Django REST Framework, REST API, Javascript, PHP, PERL, Laravel, Codeigniter</strong></p>
+<p dir="auto">💬 Ask me about <strong>Python, Django,FastAPI, Flask, Django REST Framework, REST API, Javascript, PHP, PERL, Laravel, Codeigniter, Yii, Cake PHP, Wordpress, Opencart and Magento</strong></p>
 </li>
 <li>
 <p dir="auto">📫 How to reach me <strong><a href="mailto:nikjha2552@gmail.com">nikjha2552@gmail.com</a></strong></p>
